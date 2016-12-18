@@ -864,7 +864,7 @@ li {
 .wrap_five_main_title .wrap_five_main_title_a {
     color: #fff;
     border-radius: 2px;
-    width: 180px;
+    width: auto;
     text-decoration: none;
     float: left;
 }
